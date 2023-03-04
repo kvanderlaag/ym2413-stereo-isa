@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "ym2413-stereo-isa")(type "KiCad")(uri "${KIPRJMOD}/ym2413-stereo-isa.kicad_sym")(options "")(descr ""))
+)
