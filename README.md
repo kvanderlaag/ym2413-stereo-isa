@@ -1,4 +1,7 @@
 # OPLL Stereo ISA Sound Card
+
+![Straight-on view of the board](ym2413-stereo-isa.png)
+![Angled view of the board](ym2413-stereo-isa-angle.png)
  
 ## What is this?
 
